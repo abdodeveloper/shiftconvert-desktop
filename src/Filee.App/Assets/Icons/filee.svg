@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <!-- ShiftConvert logo (filee.png is the master export from the ShiftConvert app) -->
+  <rect width="512" height="512" rx="112" fill="#131B2D"/>
+  <rect x="72" y="72" width="240" height="236" rx="52" fill="none" stroke="#9A3D12" stroke-width="24"/>
+  <rect x="152" y="152" width="240" height="240" rx="56" fill="#FF5A00"/>
+  <path d="M226 270H340M288 220l50 50-50 50" fill="none" stroke="#fff" stroke-width="36" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
